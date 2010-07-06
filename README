@@ -19,6 +19,7 @@ class: User
        	      user_name	STRING
 	      password	STRING
 	      balance	INTEGER
+	      is_logged	BOOLEAN
 
        Methods:
               login()
