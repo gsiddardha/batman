@@ -17,19 +17,16 @@ class:	Transaction
 		credit / debit	boolean
 		amount 	 	int
 		timestamp	timestamp
-		object		Object
+		item		Item
 		details		string
 	methods:
 		get, set for all properties
 	
 
-class: 	Object
+class: 	Item
 	properties:
 		name		string
 		category	string
 		description	string
 	methods:
 		get, set for all properties
-				  
-
-	  
