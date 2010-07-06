@@ -9,3 +9,19 @@ Developers:
 About the Project:
 1. This is a python based project.
 2. Its front end is built using wxPython
+
+Class: User
+
+       Properties:
+              user_id	INTEGER
+       	      user_name	STRING
+	      password	STRING
+	      balance	INTEGER
+
+       Methods:
+              login()
+       	      logout()
+       	      get_transactions()
+       	      add_expenditure()
+	      add_amount()
+	      
