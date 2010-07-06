@@ -9,3 +9,27 @@ Developers:
 About the Project:
 1. This is a python based project.
 2. Its front end is built using wxPython
+
+
+Project Overview:
+class:	Transaction
+	properties:
+		credit / debit	boolean
+		amount 	 	int
+		timestamp	timestamp
+		object		Object
+		details		string
+	methods:
+		get, set for all properties
+	
+
+class: 	Object
+	properties:
+		name		string
+		category	string
+		description	string
+	methods:
+		get, set for all properties
+				  
+
+	  
