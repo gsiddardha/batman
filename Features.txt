@@ -1,0 +1,2 @@
+Batchelor Manager:
+An application to manage the life in a batchelor pad.
