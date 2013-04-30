@@ -1,2 +1,19 @@
 Batchelor Manager:
 An application to manage the life in a batchelor pad.
+
+Phase 1 - Creating the platform:
+What is a batpad? It is a collection of people living together. So, what do we need? First of all we need to define a person. Then only we can proceed forward.
+When we say a person, what are our points of interest in him?
+1. Personal Details - Name, Date of Birth, Sex
+2. Contact Details - Phone No, Email Id
+3. Social Details - Facebook hook, Twitter hook, Linkedin hook, Foursquare Hook
+4. 
+
+Now that we have defined a person, we can define a batpad - a collection of batchelors. What all do we need to define a batpad?
+1. Address
+2. Members List
+3. 
+
+
+Phase 1 - Account Manager:
+A tool to manage the expenses among the residents of the group.
